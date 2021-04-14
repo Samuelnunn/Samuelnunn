@@ -150,4 +150,4 @@ Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/1974
   
   ![](https://komarev.com/ghpvc/?username=your-github-username)
   
-  <a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/GithubViews.png'></a
+  [![visits](https://github-visit-counter.herokuapp.com/{Samuelnunn}/{Samuelnunn}/visits.svg)](#)
