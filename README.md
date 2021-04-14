@@ -146,3 +146,5 @@ Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/1974
 </p>
  </br>
  
+ 
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Samuelnunn)/ 
