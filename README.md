@@ -143,6 +143,7 @@ Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/1974
   - I have this many profile views: 
 
     ![Profile View Counter](https://komarev.com/ghpvc/?username=Samuelnunn)/ 
+    
     👀</br>
 </p>
  </br>
