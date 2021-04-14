@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Samuel (He/Him) 👋</h2>
+<h2 align="center">Hi there, I'm Samuel (He/Him) 👋</h2> ![Profile View Counter](https://komarev.com/ghpvc/?username=Samuelnunn)
 <p font-weight='300px' align="center">Creative Mind. Coder. Gamer </br>
 Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/197485.svg" width="18"/> <b>Gloucestershire, England</b>, currently living in
 <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="18"/> <b>Orlando, Florida</b>.
@@ -143,11 +143,3 @@ Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/1974
   - I have this many profile views: ![Profile View Counter](https://komarev.com/ghpvc/?username=Samuelnunn) �</br>
 </p>
  </br>
- 
- 
-  <p align='right>![Profile View Counter](https://komarev.com/ghpvc/?username=Samuelnunn)</p> 
-  
-  
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
-  
-  [![visits](https://github-visit-counter.herokuapp.com/{Samuelnunn}/{Samuelnunn}/visits.svg)](#)
