@@ -140,7 +140,7 @@ Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/1974
   - Video games are my happy place 🎮 </br>
   - I'm a full-stack software engineer 🖥️ </br>
   - I'm a Disney fanboy 🐭 </br>
+  - I have this many profile views: ![Profile View Counter](https://komarev.com/ghpvc/?username=Samuelnunn) 👀</br>
 </p>
  </br>
  
- <a ![Profile View Counter](https://komarev.com/ghpvc/?username=Samuelnunn) align='center'/>
