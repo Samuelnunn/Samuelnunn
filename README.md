@@ -138,6 +138,7 @@ Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/1974
 <p font-weight='50px' align="left">
   - I have a background in acting/singing 🎭 </br>
   - Video games are my happy place 🎮 </br>
+  - Board games are also my happy place 🎲 </br>
   - I'm a full-stack software engineer 🖥️ </br>
   - I'm a Disney fanboy 🐭 </br>
 </p>
