@@ -129,7 +129,7 @@ Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/1974
   </tr>
 </table>
 
-<h3 font-weight='300px' align="left">Some stats -</h3>
+<h3 font-weight='300px' align="left">Some stats - </h3>
 
 <br/>[![Samuels's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuelnunn)](https://github.com/M-eLL/github-readme-stats)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" height="300" />
