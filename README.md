@@ -3,7 +3,7 @@
 Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/197485.svg" width="18"/> <b>Gloucestershire, England</b>, currently living in 
 <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="18"/> <b>Orlando, Florida</b>.
 </p>
-<br/>
+<br/> 
 
 <h3 font-weight='300px' align="left">Contact and info -</h3>
 <a href="https://www.linkedin.com/in/samuelnunn90/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
