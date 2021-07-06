@@ -54,7 +54,7 @@ Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/1974
     </td>
     <td align="center" width="96">
       <a href="https://github.com/Samuelnunn">
-        <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" height='58px' width='58px' alt="Sequelize" />
+        <img src="https://user-images.githubusercontent.com/67882344/124645159-16c2ef00-de61-11eb-88ae-251dfbe59cfe.png" height='58px' width='58px' alt="Sequelize" />
       </a>
       <br>Sequelize
     </td>
