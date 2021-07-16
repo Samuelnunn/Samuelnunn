@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Samuel (He/Him) 👋</h2>
-<p font-weight='300px' align="center">Creative Mind. Coder. Gamer. </br>
+<p font-weight='300px' align="center">Creative Mind. Coder. Gamer.</br>
 Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/197485.svg" width="18"/> <b>Gloucestershire, England</b>, currently living in 
 <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="18"/> <b>Orlando, Florida</b>.
 </p>
