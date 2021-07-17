@@ -4,7 +4,7 @@ Spent most of my life in <img src="https://image.flaticon.com/icons/svg/197/1974
 <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="18"/> <b>Orlando, Florida</b>.
 </p>
 <br/> 
-
+ 
 <h3 font-weight='300px' align="left">Contact and info -</h3>
 <a href="https://www.linkedin.com/in/samuelnunn90/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:samuelnunn90@gmail.com?subject=GitHub"><img align="center" border-radius='25px'src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
